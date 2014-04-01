@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HAL</string>
+    <string name="server_host">http://hal.nordness.net</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_door_section">Door</string>
+    <string name="title_light_section">Lights</string>
+
+    <!-- Door functions -->
+    <string name="title_door_open">Open</string>
+    <string name="title_door_unlock">Unlock</string>
+    <string name="title_door_lock">Lock</string>
+    <string name="url_door_open">/door/open</string>
+    <string name="url_door_unlock">/door/unlock</string>
+    <string name="url_door_lock">/door/lock</string>
+
+    <!-- Light functions -->
+    <string name="title_lights_on">On</string>
+    <string name="title_lights_off">Off</string>
+    <string name="url_lights_on">/lights/on</string>
+    <string name="url_lights_off">/lights/off</string>
+
+</resources>
